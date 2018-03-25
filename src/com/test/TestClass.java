@@ -9,5 +9,7 @@ public class TestClass {
         String passw = "SECRET";
 
         System.out.println("AAA");
+        System.out.println("AAA");
+        
     }
 }
